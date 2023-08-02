@@ -1,0 +1,44 @@
+   @font-face {
+    font-family: 'Trade Gothic LT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Trade Gothic LT'), url('./Trade Gothic LT.ttf') format('ttf');
+    }
+    
+
+    @font-face {
+    font-family: 'Trade Gothic LT Oblique';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Trade Gothic LT Oblique'), url('./Trade Gothic LT Oblique.ttf') format('ttf');
+    }
+    
+
+    @font-face {
+    font-family: 'Trade Gothic LT Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Trade Gothic LT Bold'), url('./Trade Gothic LT Bold.ttf') format('ttf');
+    }
+    
+
+    @font-face {
+    font-family: 'Trade Gothic LT Bold Oblique';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Trade Gothic LT Bold Oblique'), url('./Trade Gothic LT Bold Oblique.ttf') format('ttf');
+    }
+
+    @font-face {
+        font-family: 'Trade Gothic LT Light';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Trade Gothic LT Light'), url('./Trade Gothic LT Light.ttf') format('ttf');
+        }
+
+    @font-face {
+        font-family: 'Trade Gothic LT Light Oblique';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Trade Gothic LT Light Oblique'), url('./Trade Gothic LT Light Oblique.ttf') format('ttf');
+        }
